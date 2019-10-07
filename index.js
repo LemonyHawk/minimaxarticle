@@ -30,7 +30,7 @@ lets visualize the above game state
                                    ---------
                                    X | X | X
                                    ---------
-                                   O | O | O
+                                   X | O | O
 
 */
 // human
